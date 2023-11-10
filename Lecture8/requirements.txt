@@ -1,4 +1,0 @@
-ipywidgets
-divewidgets
-matplotlib
-ipympl
